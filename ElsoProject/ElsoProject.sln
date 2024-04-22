@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElsoProject", "ElsoProject\ElsoProject.csproj", "{F24682B8-06D5-4B3F-8B5B-B4795FEA1BBF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElsoProjectTests", "ElsoProjectTests\ElsoProjectTests.csproj", "{8AE5C0E0-1335-43F0-B68C-25698C544DF8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F24682B8-06D5-4B3F-8B5B-B4795FEA1BBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F24682B8-06D5-4B3F-8B5B-B4795FEA1BBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F24682B8-06D5-4B3F-8B5B-B4795FEA1BBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F24682B8-06D5-4B3F-8B5B-B4795FEA1BBF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AE5C0E0-1335-43F0-B68C-25698C544DF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AE5C0E0-1335-43F0-B68C-25698C544DF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AE5C0E0-1335-43F0-B68C-25698C544DF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AE5C0E0-1335-43F0-B68C-25698C544DF8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1618BE69-2B82-4458-AEB9-B202A6FFC9BB}
+	EndGlobalSection
+EndGlobal
